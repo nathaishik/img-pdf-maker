@@ -2,8 +2,8 @@
 
 If you have a bunch of images (named in order) in a bunch of directories (named in order), this program converts all of them into both individual PDFs per folder and one combined PDF in the root directory.
 
-> [IMPORTANT]
-Currently, it can convert either JPG or PNG images in a particular folder (not both in the same folder).
+> [!IMPORTANT]
+> Currently, it can convert either JPG or PNG images in a particular folder (not both in the same folder).
 
 ## Requirements
 
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 python img_pdf_maker.py
 ```
 
-> [NOTE]
+> [!NOTE]
 This may consume a significant amount of memory.
 
 ### From Binary
